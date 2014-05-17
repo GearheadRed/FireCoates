@@ -6,6 +6,13 @@ BikeModule.ino contains firmware for determining which signal lights are illumin
 	Written using an Arduino Nano v3 and Virtuabotix BT2S-M Bluetooth to Serial Master
 JacketModule.ino contains the firmware for receiving input from the bike module and for jacket light signalling.
 	Written using an Arduino Fio and SainSmart Bee Bluetooth Slave
+	
+BikeModuleWiring.jpg is a very basic diagram for how to wire up the bike module.
+JacketModuleWiring.jpg is a very basic diagram for how to wire up the jacket module.
+
+BasicJacketModuleCase Directory
+	JacketModuleBase.stl bottom portion of a basic 3d printed case for the jacket module
+	JacketModuleTop.stl top cover for the 3d printed jacket module case
 
 To do:
 	Bike module:
